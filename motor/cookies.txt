@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.latitudhoteles.com	TRUE	/	FALSE	1999999999	exp_last_visit	1366440641
+www.latitudhoteles.com	TRUE	/	FALSE	1999999999	PHPSESSID	0h4jvhlt66usd7c00ht1on4525
+www.latitudhoteles.com	TRUE	/	FALSE	1999999999	exp_last_activity	1681800657
+
